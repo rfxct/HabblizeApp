@@ -1,2 +1,1 @@
-* Removido o sistema do IsItup?
-* Compactar usando Asar
+* Fixado o erro no plugin 
